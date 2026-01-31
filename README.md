@@ -1,10 +1,30 @@
 - 👋 Hi, I’m Sandeep Kumar Pradhan
-- 👀 I’m interested in connecting with people, exploring new ideas, and making a positive impact.
-- 🌱 I’m currently learning GCP-ACE,Artificial intelligence, machine learning, and data science.
-- 💞️ I’m looking to collaborate on projects that involve innovative technologies and have the potential to solve real-world problems.
-- 📫 You can reach me through email at [sandeeppradhan6724@gmail.com] or connect with me on LinkedIn [www.linkedin.com/in/sandeep-pradhan-484460267].
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I love to explore different cultures through food and travel,Gardening,Sports like # Cricket # Badminton etc..
+- 🚀 Data Engineer | Cloud Support Engineer | GCP Enthusiast
+- I’m a data professional with hands-on experience in multi-cloud environments (GCP, AWS, Azure), focused on building reliable data pipelines, monitoring workflows, and solving real-world problems using cloud technologies.
+- 🛠️ Tech Stack & Skills :
+- ☁️ Cloud & Platforms
+- 💻 Programming & Data
+- 📊 Visualization & Tools
+- 📊 GitHub Stats :
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandip6724&show_icons=true&theme=default" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip6724&layout=compact&theme=default" height="160"/> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=sandip6724&theme=default" /> </p>
+🌱 Currently Learning :
+- Artificial Intelligence & Machine Learning
+- Data Science & Advanced SQL
+- 💞️ Open to Collaborate On
+- Data Engineering & Cloud projects
+- GCP / AWS data pipelines
+- Analytics dashboards & automation
+- Real-world data problem solving
+📫 Let’s Connect :
+📧 Email: sandeeppradhan6724@gmail.com
+⚡ Fun Facts :
+🌍 Love exploring cultures through food & travel
+🌱 Enjoy gardening
+🏏 Sports lover – Cricket & Badminton
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
 
 <!---
 sandip6724/sandip6724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
