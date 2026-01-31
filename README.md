@@ -1,14 +1,11 @@
 - 👋 Hi, I’m Sandeep Kumar Pradhan
 - 🚀 Data Engineer | Cloud Support Engineer | GCP Enthusiast
-- I’m a data professional with hands-on experience in multi-cloud environments (GCP, AWS, Azure), focused on building reliable data pipelines, monitoring workflows, and solving real-world problems using cloud technologies.
-- 🛠️ Tech Stack & Skills :
+- I’m a data professional with hands-on experience in multi-cloud environments (GCP, AWS, Azure), focused on building reliable data pipelines, monitoring workflows, and solving real-world problems using cloud
+  technologies.
+🛠️ Tech Stack & Skills :
 - ☁️ Cloud & Platforms
 - 💻 Programming & Data
 - 📊 Visualization & Tools
-- 📊 GitHub Stats :
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandip6724&show_icons=true&theme=default" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip6724&layout=compact&theme=default" height="160"/> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=sandip6724&theme=default" /> </p>
 🌱 Currently Learning :
 - Artificial Intelligence & Machine Learning
 - Data Science & Advanced SQL
