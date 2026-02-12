@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandeep Kumar Pradhan
-- 🚀 Data Engineer | Cloud Support Engineer | GCP Enthusiast
+- 🚀 Data Engineer | Cloud Support Engineer | Sr. Data Analyst
 - I’m a data professional with hands-on experience in multi-cloud environments (GCP, AWS, Azure), focused on building reliable data pipelines, monitoring workflows, and solving real-world problems using cloud
   technologies.
 🛠️ Tech Stack & Skills :
